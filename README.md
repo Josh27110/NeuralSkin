@@ -1,6 +1,11 @@
 # NeuralSkin
 
 An end-to-end web application that leverages deep learning to perform real-time analysis of skin lesion images for the preliminary detection of melanoma. This tool provides an intuitive interface for users to get an instant, AI-powered assessment.
+https://drive.google.com/file/d/1XhETHcNBdMkR7zn7_NiQCA_l1flccbab/view?usp=sharing
+Typescript
+
+https://drive.google.com/file/d/11w2MKh0O45TGtAywCe_sc5Y9_jMyKHQV/view?usp=sharing
+Python/Flask server
 
 ## Key Features
 
