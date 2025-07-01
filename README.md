@@ -136,3 +136,6 @@ El frontend requiere Node.js, que incluye el manejador de paquetes `npm`.
 ## ⚠️ Descargo de Responsabilidad Médica
 
 Esta herramienta de diagnóstico por IA está destinada únicamente para fines educativos y de detección. **No** constituye un consejo, diagnóstico o tratamiento médico profesional. Todos los resultados deben ser validados por un profesional de la salud calificado. Si tienes alguna lesión o síntoma preocupante, consulta inmediatamente con un dermatólogo certificado.
+
+
+
